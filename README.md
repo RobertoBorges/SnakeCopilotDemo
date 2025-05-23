@@ -41,7 +41,7 @@ To get started with the Snake Game, follow these steps:
 
 1. **Clone the repository:**
    ```
-   git clone <repository-url>
+   git clone https://github.com/RobertoBorges/SnakeCopilotDemo.git
    cd snake-game
    ```
 
